@@ -8,7 +8,7 @@
 Download or clone this repo by using the link below: git clone -b app <branch-url>
 
 ```
-https://github.com/Yashs1623/IF_Mobile_2023.git
+https://github.com/Ayush1216/FinanceGuru.git
 ```
 
 **Step 2:**
@@ -54,7 +54,7 @@ lib
 
 ### Purpose of the App:
  
-Gamified application for a user's personal finances. Tracks all the transactions and expenses of a user and recommends Bajaj products and well as provides incentives to the user. 
+Gamified application for a user's personal finances. Tracks all the transactions and expenses of a user and  provides incentives to the user. 
 
 ### Functionalities Included:
 - Micro-investment - The application rounds up transactions and invest the remaining amount into strategic policies. 
